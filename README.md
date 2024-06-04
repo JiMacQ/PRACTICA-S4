@@ -3,4 +3,6 @@
 ### JENNYFER PALLO
 ### BRYAN ROMO
 
-<img src="CAPTURA.png" width="500" height="500">
+<img src="Captura.PNG">
+<img src="Captura11.PNG">
+<img src="Captura22.PNG">
